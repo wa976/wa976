@@ -26,7 +26,7 @@
 ---
 
 ### Patents
-- coming soon
+- 
 
 ---
 
